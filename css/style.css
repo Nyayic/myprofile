@@ -1,0 +1,33 @@
+p {
+    color: blueviolet;
+    font-size: 50px;
+}
+
+.first {
+    font-weight: bold;
+}
+.second{
+    font-weight: bolder;
+}
+.third{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+#html{
+    background: lightblue;
+}
+#js{
+    text-align: center;
+}
+.content{
+    width: 50%;
+    height: 50%;
+    background-color: red;
+}
+.di{
+   background-color: blue;
+    width: 50%;
+    height: 50%;
+}
